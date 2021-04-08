@@ -44,7 +44,7 @@ yarn start
 
 ## 🤝 Contribuição
 
-Contribuição, issues e feature requests são bem vindas!<br />[issues page](https://github.com/samuelalex93/api-rest-node-solid/issues). 
+Contribuição, issues e feature requests são bem vindas!<br />[issues page](https://github.com/samuelalex93/microservice-grpc-node/issues). 
 
 ## 📝 Licenças
 
